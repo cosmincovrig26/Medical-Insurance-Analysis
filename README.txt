@@ -6,3 +6,5 @@ patterns and links between insurance cost
 
 We then run some algorithms on our data to predict insurance costs based
 on different variables
+
+NOTE: To run the python file Jupyter Notebook is required
